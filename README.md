@@ -1,6 +1,4 @@
 # Wine-Variety-Review-Prediction
-Assignment for knight fintech research private limited for internship process.
-
 Model used with their accuracies:-
 1)Decision Tree-0.5042709975437182
 2)Support Vector Machine (Linear)-0.670784910364043
