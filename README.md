@@ -4,7 +4,7 @@ Model used with their accuracies:-
 
 2) Support Vector Machine (Linear) - 0.670784910364043
 
-*Support Vector Machine (Linear) is having the best accuracy.
+* Support Vector Machine (Linear) is having the best accuracy.
 Hence, it  is used to predict the values of 'variety' for the
 data in the test dataset.
 
